@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^5.0.0",
     "jquery":"1.6.5",
     "express-ws": "^4.0.0",
     "gfycat-style-urls": "^1.0.3",
